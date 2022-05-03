@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#  Sou a Professora Tânia
+
+## Trabalho com  a disciplina  de Pensament  Computacional
+
+
 <!--
 **Tanikamara/Tanikamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
