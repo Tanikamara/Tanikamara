@@ -2,7 +2,7 @@
 
 #  Sou a Professora Tânia
 
-## Trabalho com  a disciplina  de Pensament  Computacional
+## Trabalho com  a disciplina  de Pensamento  Computacional
 
 Sou formada em **Geografia**
 
